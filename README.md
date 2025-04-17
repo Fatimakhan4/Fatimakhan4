@@ -25,6 +25,6 @@ I'm a **second-year Computer Science student** passionate about coding and probl
 ## 📫 How to Reach Me
 
 - ✉️ **Email**: fatimakhan19112007@gmail.com
-- 🌍 **Portfolio**: [Your Portfolio Website](#)
+
 
 Thank you for visiting my profile! 🚀
